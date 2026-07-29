@@ -1,6 +1,15 @@
-# پنل ادمین فروشگاه (مشابه OpenCart)
+# پنل ادمین فروشگاه
 
 پنل مدیریت مدرن و کامل ساخته‌شده با **Next.js 16**، **shadcn/ui**، **Tailwind CSS v4** و **Zustand**.
+
+
+<p align="center">
+  <img src="screenshots/1.png" width="100%" alt="Home">
+  <img src="screenshots/2.png" width="100%" alt="category">
+</p>
+
+
+
 
 ## ویژگی‌ها
 
